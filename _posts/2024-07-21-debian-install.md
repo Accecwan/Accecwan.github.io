@@ -1,11 +1,7 @@
 ---
-layout: post
+layout: mypost
 title: 软工导论简答题
-date: 2025-01-16 14:45
 category: [专业课]
-author: accecwan
-tags: []
-summary: 
 ---
 
 # 软工导论
